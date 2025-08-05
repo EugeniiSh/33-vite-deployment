@@ -1,4 +1,4 @@
 export default
 {
-  base: '/33-vite-deployment/app/',
+  base: '/33-vite-deployment/',
 }
